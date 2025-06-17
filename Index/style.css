@@ -33,7 +33,7 @@ main {
   left: 28%;
   transform: translate(-63%, 20%);
   height: 20%;
-  max-height: 200px;
+  max-height: 90px;
 }
 
 .pokemon__data {
